@@ -1,0 +1,16 @@
+airport_code,city,country,region
+HEL,Helsinki,Finland,Europe
+ARN,Stockholm,Sweden,Europe
+CPH,Copenhagen,Denmark,Europe
+OSL,Oslo,Norway,Europe
+LHR,London,United Kingdom,Europe
+CDG,Paris,France,Europe
+AMS,Amsterdam,Netherlands,Europe
+FRA,Frankfurt,Germany,Europe
+MUC,Munich,Germany,Europe
+BCN,Barcelona,Spain,Europe
+MAD,Madrid,Spain,Europe
+FCO,Rome,Italy,Europe
+JFK,New York,United States,North America
+NRT,Tokyo,Japan,Asia
+BKK,Bangkok,Thailand,Asia
